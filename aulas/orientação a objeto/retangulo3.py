@@ -1,5 +1,7 @@
 # coding: utf-8
 
+#ENCAPSULAMENTO
+
 class Retangulo:
 
     def __init__(self, largura, altura):
